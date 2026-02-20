@@ -11,3 +11,9 @@ Answer: Data science can be applied to healthcare. For example,
 doctors can use data science to analyze patient records and 
 predict which patients are at risk of getting a disease.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines two branches together and creates a 
+new commit to record the merge. Rebasing moves your changes 
+on top of another branch without creating an extra commit, 
+making the history cleaner and easier to read.
