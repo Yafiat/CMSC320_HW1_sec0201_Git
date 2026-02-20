@@ -17,3 +17,9 @@ Answer: Merging combines two branches together and creates a
 new commit to record the merge. Rebasing moves your changes 
 on top of another branch without creating an extra commit, 
 making the history cleaner and easier to read.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to understanding the fundamentals 
+of data science and applying what I learn to real problems. 
+I also hope to get a good grade.
